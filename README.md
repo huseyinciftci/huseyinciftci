@@ -34,4 +34,4 @@ Pempati.com, annelere, bebeklere ve çocuklara yönelik son teknoloji bir e-tica
 - E-posta iletişim hizmetleri 📧
 - Yönetim ve kullanıcı arayüzü paneli geliştirme 📊
 - Dinamik ve duyarlı bir kullanıcı arayüzünün oluşturulması 🌐🎨
-- Sağlamlık için katmanlı mimarinin kullanımı 🏗️
+- Uyumluluk için katmanlı mimarinin kullanımı 🏗️
