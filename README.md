@@ -20,7 +20,7 @@
   [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
   [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
-- **Diğer:** 
+- **Git & Api:** 
   [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
   [![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF5733?style=flat-square&logo=insomnia&logoColor=white)](https://insomnia.rest/)
   
