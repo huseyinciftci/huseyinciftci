@@ -29,4 +29,4 @@
 ### Pempati 
 ![16cc3cf0-bb8d-4978-a5ec-eecc171f7620](https://github.com/huseyinciftci/huseyinciftci/assets/103926942/087d76b6-895b-49fc-bdd2-86a4e02f9942)
 
-Pempati.com, annelere, bebeklere ve çocuklara özel bir pazaryeri platformudur. 
+Pempati.com, Anne, Bebek ve Çocuklar için kurulmuş özel bir pazaryeri platformudur. 
