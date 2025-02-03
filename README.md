@@ -1,7 +1,7 @@
 # Hüseyin ÇİFTÇİ - *FrontEnd Developer*
 ## 👨‍💻 Hakkımda
 
-"Merhaba! Ben Hüseyin, Front-end geliştirme alanında 2 yıllık deneyimimle, HTML, CSS, JavaScript, TypeScript ve Angular frameworklerini kullanarak modern ve kullanıcı dostu web arayüzleri tasarlıyor ve geliştiriyorum. Web teknolojilerine olan hakimiyetim sayesinde, projelerimde yenilikçi ve etkili çözümler sunmaya odaklanıyorum. Kullanıcı deneyimine ve tasarım detaylarına verdiğim önem, işlevselliği estetikle birleştirerek kaliteli sonuçlar elde etmemi sağlıyor. Sürekli öğrenmeyi ve kendimi geliştirmeyi ilke edinmiş biri olarak, teknolojideki yenilikleri yakından takip ediyor ve bulunduğum projelerime en iyi uygulamaları entegre ediyorum."
+"Merhaba! Ben Hüseyin, Front-end geliştirme alanında 2 yıllık deneyimimle, HTML, CSS, JavaScript, TypeScript ve Angular frameworklerini kullanarak modern ve kullanıcı dostu web arayüzleri tasarlıyor ve geliştiriyorum. "
 
 ## 💻 Programlama Uzmanlığı
 
