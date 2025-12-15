@@ -1,7 +1,7 @@
 # *Software Developer*
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Developer;Angular+Specialist;AI+Integration+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Developer;Angular+Specialist;AI+Integration+Expert" alt="Typing SVG" />
 </div>
 
 ## Summary
@@ -97,9 +97,9 @@ HR profesyonelleri için geliştirilmiş, yapay zeka destekli CV değerlendirme 
   />
 </div>
 
-**Social Media Analysis & Management Platform**
+**Philosophical Blog & Social Commentary Platform**
 
-Sosyal medya analiz ve yönetim platformu. Kullanıcıların sosyal medya hesaplarını yönetmelerine ve analiz etmelerine olanak tanır.
+Toplumsal konuları eleştirel bakış açısıyla ele alan, kaliteli içerikler sunan platform.
 
 **Teknolojiler:**
 - Angular, TypeScript
